@@ -1,0 +1,2371 @@
+[
+ {
+  "cultivar": "Permanent Marker",
+  "breeder": "Seed Junky Genetics",
+  "aliases": [],
+  "mother": "(Biscotti x Jealousy)",
+  "father": "Sherb Bx",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "(Biscotti x Jealousy) x Sherb Bx",
+  "lineage_conflits": [],
+  "flowering_days": 70,
+  "type": "indica / sativa",
+  "thc_pct": 34,
+  "cbd_pct": 0.05,
+  "thc_src": "growdiaries",
+  "rating_10": 9.4,
+  "rating_src": "growdiaries",
+  "harvests": 42,
+  "diaries": 93,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": 473.0,
+  "heterozygosity_pct": 1.27,
+  "dna_variants": [
+   {
+    "gene": "PKSG-4b",
+    "variant": "p.Thr118fs",
+    "frequency_pct": 35.4,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "AAE1-2",
+    "variant": "p.Asp317fs",
+    "frequency_pct": 17.9,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "AAE1-2",
+    "variant": "p.Gln318fs",
+    "frequency_pct": 17.7,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "ELF3",
+    "variant": "c.1230-2_1230-1delAG",
+    "frequency_pct": 53.300000000000004,
+    "category": "autoflower"
+   }
+  ],
+  "dna_report_type": "Whole-Genome Sequencing",
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.64,
+   "reviews": 363,
+   "top_effect": "Tingly",
+   "top_terp": "myrcene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Cali Weed Seeds",
+   "thc": "21.1%",
+   "cbd": "1.4%",
+   "yield_indoor": "473.0g/m²",
+   "yield_outdoor": "1166.0g/plant",
+   "flowering_time": "8-9 Weeks (55-63 Days)",
+   "genetic_background": "Northern Lights x Haze",
+   "indica_sativa": "Indica Dominant",
+   "effect": "Sleepy, Relaxed, Creative",
+   "flavor": "Earthy"
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "kannapedia",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/permanent-marker/seed-junky-genetics",
+   "growdiaries": "https://growdiaries.com/strains/permanent-marker",
+   "kannapedia": "https://kannapedia.net/strains/rsp12907",
+   "leafly": "https://www.leafly.com/strains/permanent-marker"
+  },
+  "commercial_score": 65.6,
+  "score_partiel": true,
+  "score_detail": {
+   "yield": 74.25431711145997,
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 76.8,
+   "market": 24.2
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée (5 lignes CSV pour ce cultivar)",
+   "Permanent Marker : note 8,4 (listing) vs 9,4 (fiche) — donnée vivante",
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Jealousy",
+  "breeder": "Barneys Farm",
+  "aliases": [],
+  "mother": "Sunset Sherbert Bx1",
+  "father": "Gelato #41",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Sunset Sherbert Bx1 x Gelato #41",
+  "lineage_conflits": [],
+  "flowering_days": 67,
+  "type": "indica / sativa",
+  "thc_pct": 28,
+  "cbd_pct": 0.54,
+  "thc_src": "growdiaries",
+  "rating_10": 8.5,
+  "rating_src": "growdiaries",
+  "harvests": 35,
+  "diaries": null,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": 637.0,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {
+   "Compound Genetics": [
+    "UK Riot (London Jealousy x Jokerz #31) — 'London Jealousy' = cut Jealousy de Compound"
+   ]
+  },
+  "leafly": {
+   "rating": 4.57,
+   "reviews": 399,
+   "top_effect": "Giggly",
+   "top_terp": "caryophyllene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Barneys Farm Seeds",
+   "thc": "21.7%",
+   "cbd": "1.1%",
+   "yield_indoor": "637.0g/m²",
+   "yield_outdoor": "1108.0g/plant",
+   "flowering_time": "65 - 70 days",
+   "genetic_background": "Northern Lights x Haze",
+   "indica_sativa": "50% Indica/50% Sativa",
+   "effect": "Giggly, Relaxed, Happy, Talkative",
+   "flavor": "Pine, Berry"
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/jealousy/barneys-farm",
+   "growdiaries": "https://growdiaries.com/strains/jealousy",
+   "leafly": "https://www.leafly.com/strains/jealousy"
+  },
+  "commercial_score": 80.5,
+  "score_partiel": true,
+  "score_detail": {
+   "yield": 100.0,
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 66.1,
+   "market": 26.6
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée (3 lignes CSV pour ce cultivar)",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "RS-11",
+  "breeder": "Clone Only Strains",
+  "aliases": [
+   "RS11"
+  ],
+  "mother": "Pink Guava",
+  "father": "OZ Kush",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Pink Guava x OZ Kush",
+  "lineage_conflits": [],
+  "flowering_days": null,
+  "type": "indica / sativa",
+  "thc_pct": 21,
+  "cbd_pct": 0.75,
+  "thc_src": "growdiaries",
+  "rating_10": 9.2,
+  "rating_src": "growdiaries",
+  "harvests": 44,
+  "diaries": null,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": 400.7,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {
+   "Clearwater Genetics": [
+    "RS11 x Gary Satan",
+    "Gary Satan x RS11"
+   ]
+  },
+  "leafly": {
+   "rating": 4.42,
+   "reviews": 190,
+   "top_effect": "Talkative",
+   "top_terp": "caryophyllene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Growers Choice",
+   "thc": "27-30%",
+   "cbd": "Low",
+   "yield_indoor": "550-650 grams /m2",
+   "yield_outdoor": "450-600 grams per plant",
+   "flowering_time": "72 days",
+   "genetic_background": "Haze x Skunk",
+   "indica_sativa": "Indica Dominant",
+   "effect": "Euphoric, Sleepy",
+   "flavor": "Citrus, Pine, Sweet"
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/rs-11/clone-only-strains",
+   "growdiaries": "https://growdiaries.com/strains/rs11",
+   "leafly": "https://www.leafly.com/strains/rs11"
+  },
+  "commercial_score": 56.1,
+  "score_partiel": true,
+  "score_detail": {
+   "yield": 62.89900575614862,
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 76.0,
+   "market": 12.6
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée (4 lignes CSV pour ce cultivar)",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Rainbow Belts",
+  "breeder": "Archive Seed Bank",
+  "aliases": [],
+  "mother": "Zkittles",
+  "father": "MoonBow [pheno: #75]",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Zkittles x MoonBow [pheno: #75]",
+  "lineage_conflits": [],
+  "flowering_days": 65,
+  "type": "indica / sativa",
+  "thc_pct": 21,
+  "cbd_pct": 0.4,
+  "thc_src": "growdiaries",
+  "rating_10": 9.1,
+  "rating_src": "leafly",
+  "harvests": 2,
+  "diaries": 5,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {
+   "Clearwater Genetics": [
+    "Rainbow Belts x Devil Driver"
+   ]
+  },
+  "leafly": {
+   "rating": 4.55,
+   "reviews": 174,
+   "top_effect": "Talkative",
+   "top_terp": "caryophyllene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": null,
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/rainbow-belts/archive-seed-bank",
+   "growdiaries": "https://growdiaries.com/strains/rainbow-belt",
+   "leafly": "https://www.leafly.com/strains/rainbow-belt"
+  },
+  "commercial_score": 51.3,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 91.0,
+   "market": 11.6
+  },
+  "flags_qualite": [
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Lemon Cherry Gelato",
+  "breeder": "Zamnesia",
+  "aliases": [],
+  "mother": "Sunset Sherbert",
+  "father": "Girl Scout Cookies",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Sunset Sherbert x Girl Scout Cookies",
+  "lineage_conflits": [],
+  "flowering_days": 60,
+  "type": "mostly indica",
+  "thc_pct": 20,
+  "cbd_pct": 0.5,
+  "thc_src": "growdiaries",
+  "rating_10": 9.0,
+  "rating_src": "growdiaries",
+  "harvests": 48,
+  "diaries": 97,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {
+   "Compound Genetics": [
+    "Candy Packz (Lemon Cherry Gelato x Jokerz #31)"
+   ],
+   "Clearwater Genetics": [
+    "Lemon Cherry Gelato x Black Velvet",
+    "Lemon Cherry Gelato x Now N Later",
+    "Platinum Lemon Cherry Gelato x (OzMelon x Papaya)"
+   ]
+  },
+  "leafly": {
+   "rating": 4.59,
+   "reviews": 831,
+   "top_effect": "Tingly",
+   "top_terp": "caryophyllene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Barneys Farm Seeds",
+   "thc": "",
+   "cbd": "",
+   "yield_indoor": "",
+   "yield_outdoor": "",
+   "flowering_time": "",
+   "genetic_background": "",
+   "indica_sativa": "Indica Dominant",
+   "effect": "",
+   "flavor": ""
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/lemon-cherry-gelato/zamnesia",
+   "growdiaries": "https://growdiaries.com/strains/lemon-cherry-gelato",
+   "leafly": "https://www.leafly.com/strains/lemon-cherry-gelato"
+  },
+  "commercial_score": 65.7,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 76.1,
+   "market": 55.3
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Super Boof",
+  "breeder": "Growers Choice",
+  "aliases": [],
+  "mother": "Super Boof",
+  "father": "Super Boof",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Super Boof x Super Boof",
+  "lineage_conflits": [],
+  "flowering_days": 60,
+  "type": "indica / sativa",
+  "thc_pct": 28,
+  "cbd_pct": 0.5,
+  "thc_src": "growdiaries",
+  "rating_10": 9.3,
+  "rating_src": "growdiaries",
+  "harvests": 26,
+  "diaries": 71,
+  "yield_g_plant_median": 96,
+  "yield_gm2_csv": 630.0,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {
+   "Solfire Gardens": [
+    "Sol Snatcher (Super Boof x Don Mega)"
+   ]
+  },
+  "leafly": {
+   "rating": 4.54,
+   "reviews": 374,
+   "top_effect": "Giggly",
+   "top_terp": null,
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Cream of the Crop",
+   "thc": "28%",
+   "cbd": "1.8%",
+   "yield_indoor": "630.0g/m²",
+   "yield_outdoor": "703.0g/plant",
+   "flowering_time": "8-9 Weeks",
+   "genetic_background": "Afghani x Mexican",
+   "indica_sativa": "50% Indica/50% Sativa",
+   "effect": "Giggly / Euphoric / Creative",
+   "flavor": "Earthy"
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/super-boof/growers-choice",
+   "growdiaries": "https://growdiaries.com/strains/super-boof",
+   "leafly": "https://www.leafly.com/strains/super-boof"
+  },
+  "commercial_score": 79.6,
+  "score_partiel": true,
+  "score_detail": {
+   "yield": 98.9010989010989,
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 66.6,
+   "market": 24.9
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée (4 lignes CSV pour ce cultivar)",
+   "Super Boof : SeedFinder n’a que des auto-croisements — vraie lignée absente",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Blue Lobster",
+  "breeder": "Compound Genetics",
+  "aliases": [],
+  "mother": "Apples and Bananas",
+  "father": "Eye Candy",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Apples and Bananas x Eye Candy",
+  "lineage_conflits": [],
+  "flowering_days": 63,
+  "type": "indica / sativa",
+  "thc_pct": 28,
+  "cbd_pct": null,
+  "thc_src": "growdiaries",
+  "rating_10": 9.32,
+  "rating_src": "leafly",
+  "harvests": null,
+  "diaries": null,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.66,
+   "reviews": 58,
+   "top_effect": "Talkative",
+   "top_terp": "limonene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Flavour Chasers",
+   "thc": "",
+   "cbd": "",
+   "yield_indoor": "",
+   "yield_outdoor": "",
+   "flowering_time": "",
+   "genetic_background": "",
+   "indica_sativa": "",
+   "effect": "",
+   "flavor": ""
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/blue-lobster/compound-genetics",
+   "growdiaries": "https://growdiaries.com/strains/blue-lobster",
+   "leafly": "https://www.leafly.com/strains/blue-lobster"
+  },
+  "commercial_score": 43.2,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 82.5,
+   "market": 3.9
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée",
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Gary Payton",
+  "breeder": "Blim Burn Seeds",
+  "aliases": [],
+  "mother": "Gary Payton",
+  "father": "Girl Scout Cookies",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Gary Payton x Girl Scout Cookies",
+  "lineage_conflits": [
+   {
+    "champ": "lineage (versions publiees)",
+    "versions": [
+     {
+      "valeur": "Gary Payton × Girl Scout Cookies (auto-référentielle)",
+      "source": "SeedFinder / Blim Burn Seeds — douteuse"
+     }
+    ]
+   }
+  ],
+  "flowering_days": 70,
+  "type": "indica / sativa",
+  "thc_pct": 22.5,
+  "cbd_pct": null,
+  "thc_src": "growdiaries",
+  "rating_10": 9.14,
+  "rating_src": "leafly",
+  "harvests": null,
+  "diaries": null,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": 600.0,
+  "heterozygosity_pct": 1.12,
+  "dna_variants": [
+   {
+    "gene": "AAE1-2",
+    "variant": "p.Asp317fs",
+    "frequency_pct": 17.9,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "PHL-2",
+    "variant": "p.Lys1185fs",
+    "frequency_pct": 14.299999999999999,
+    "category": "flowering_photoperiod"
+   }
+  ],
+  "dna_report_type": "Whole-Genome Sequencing",
+  "parent_use_evidence": {
+   "Clearwater Genetics": [
+    "Gary Payton x Black Velvet"
+   ]
+  },
+  "leafly": {
+   "rating": 4.57,
+   "reviews": 644,
+   "top_effect": "Giggly",
+   "top_terp": "caryophyllene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Mavericks Genetics",
+   "thc": "",
+   "cbd": "",
+   "yield_indoor": "600 g/m²",
+   "yield_outdoor": "800 g",
+   "flowering_time": "8-9 weeks",
+   "genetic_background": "",
+   "indica_sativa": "Indica Dominant",
+   "effect": "",
+   "flavor": ""
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "kannapedia",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/gary-payton/blim-burn-seeds",
+   "growdiaries": "http://growdiaries.com/strains/gary-payton",
+   "kannapedia": "https://kannapedia.net/strains/rsp12898",
+   "leafly": "https://www.leafly.com/strains/gary-payton"
+  },
+  "commercial_score": 84.4,
+  "score_partiel": true,
+  "score_detail": {
+   "yield": 94.19152276295134,
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 91.4,
+   "market": 42.9
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée (3 lignes CSV pour ce cultivar)",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Zoap",
+  "breeder": "Unknown or Legendary",
+  "aliases": [],
+  "mother": "RS-11",
+  "father": "Pink Guava",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "RS-11 x Pink Guava",
+  "lineage_conflits": [
+   {
+    "champ": "lineage (versions publiees)",
+    "versions": [
+     {
+      "valeur": "RS-11 × Pink Guava",
+      "source": "SeedFinder / Unknown or Legendary"
+     },
+     {
+      "valeur": "Rainbow Sherbet × Pink Guava (version citée)",
+      "source": "littérature — à trancher"
+     }
+    ]
+   }
+  ],
+  "flowering_days": null,
+  "type": "indica / sativa",
+  "thc_pct": 26,
+  "cbd_pct": 0.1,
+  "thc_src": "growdiaries",
+  "rating_10": 9.3,
+  "rating_src": "growdiaries",
+  "harvests": 9,
+  "diaries": null,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {
+   "Clearwater Genetics": [
+    "Zoap x Space Coast Gelato",
+    "Zoap x Dante's Descent"
+   ]
+  },
+  "leafly": {
+   "rating": 4.43,
+   "reviews": 158,
+   "top_effect": "Hungry",
+   "top_terp": "caryophyllene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Super Strains",
+   "thc": "22%",
+   "cbd": "1%",
+   "yield_indoor": "",
+   "yield_outdoor": "",
+   "flowering_time": "",
+   "genetic_background": "",
+   "indica_sativa": "Indica Dominant",
+   "effect": "Stoned, Calming",
+   "flavor": ""
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/zoap/unknown-or-legendary",
+   "growdiaries": "http://growdiaries.com/strains/zoap",
+   "leafly": "https://www.leafly.com/strains/zoap"
+  },
+  "commercial_score": 28.5,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 46.5,
+   "market": 10.5
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée (2 lignes CSV pour ce cultivar)",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Red Pop",
+  "breeder": "Exotic Genetix",
+  "aliases": [],
+  "mother": "Unknown Strain [unknown: Strawberry]",
+  "father": "Cookies & Cream",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Unknown Strain [unknown: Strawberry] x Cookies & Cream",
+  "lineage_conflits": [],
+  "flowering_days": 60,
+  "type": "indica / sativa",
+  "thc_pct": 20,
+  "cbd_pct": null,
+  "thc_src": "leafly",
+  "rating_10": 9.0,
+  "rating_src": "leafly",
+  "harvests": 5,
+  "diaries": 10,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {
+   "Compound Genetics": [
+    "Strawberry Skrilla (Red Pop x Jokerz #31)"
+   ]
+  },
+  "leafly": {
+   "rating": 4.5,
+   "reviews": 46,
+   "top_effect": "Giggly",
+   "top_terp": "myrcene",
+   "phenotype": "Indica"
+  },
+  "csv8910": null,
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/red-pop/exotic-genetix",
+   "growdiaries": "http://growdiaries.com/seedbank/exoticgenetix/red-pop",
+   "leafly": "https://www.leafly.com/strains/faygo-red-pop"
+  },
+  "commercial_score": 39.1,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 75.2,
+   "market": 3.1
+  },
+  "flags_qualite": [
+   "Red Pop : lignée legacy sur GrowDiaries (diaries 4-6 ans) — ne pas fusionner avec un Red Pop moderne sans vérifier le breeder",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Georgia Pie",
+  "breeder": "Seed Junky Genetics",
+  "aliases": [],
+  "mother": "Gellati",
+  "father": "Kush Mints",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Gellati x Kush Mints",
+  "lineage_conflits": [],
+  "flowering_days": 60,
+  "type": "indica / sativa",
+  "thc_pct": 14,
+  "cbd_pct": 0.67,
+  "thc_src": "growdiaries",
+  "rating_10": 9.12,
+  "rating_src": "leafly",
+  "harvests": 5,
+  "diaries": 10,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.56,
+   "reviews": 232,
+   "top_effect": "Hungry",
+   "top_terp": "caryophyllene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": null,
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/georgia-pie/seed-junky-genetics",
+   "growdiaries": "https://growdiaries.com/strains/georgia-pie",
+   "leafly": "https://www.leafly.com/strains/georgia-pie"
+  },
+  "commercial_score": 53.3,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 91.2,
+   "market": 15.4
+  },
+  "flags_qualite": [
+   "Georgia Pie : THC 14 % affiché sur GrowDiaries — invraisemblable vs avis",
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Devil Driver",
+  "breeder": "Tiki Madman",
+  "aliases": [],
+  "mother": "Sundae Driver",
+  "father": "Melonade",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Sundae Driver x Melonade",
+  "lineage_conflits": [],
+  "flowering_days": 60,
+  "type": "indica / sativa",
+  "thc_pct": 28,
+  "cbd_pct": 0.1,
+  "thc_src": "growdiaries",
+  "rating_10": 8.74,
+  "rating_src": "leafly",
+  "harvests": null,
+  "diaries": null,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {
+   "Clearwater Genetics": [
+    "White Truffle x Devil Driver",
+    "Oreocake x Devil Driver",
+    "ECSD x Devil Driver",
+    "Devil Driver S1",
+    "Black Velvet x Devil Driver",
+    "Dante's Inferno (Oreoz x Devil Driver)"
+   ]
+  },
+  "leafly": {
+   "rating": 4.37,
+   "reviews": 73,
+   "top_effect": "Energetic",
+   "top_terp": "caryophyllene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": null,
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/devil-driver/tiki-madman",
+   "growdiaries": "https://growdiaries.com/strains/devil-driver",
+   "leafly": "https://www.leafly.com/strains/devil-driver"
+  },
+  "commercial_score": 43.3,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 81.7,
+   "market": 4.9
+  },
+  "flags_qualite": [
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Honey Banana",
+  "breeder": "Elemental Seeds",
+  "aliases": [
+   "Honey Bananas"
+  ],
+  "mother": "Honey Boo",
+  "father": "Strawberry Banana",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Honey Boo x Strawberry Banana",
+  "lineage_conflits": [],
+  "flowering_days": 60,
+  "type": "mostly indica",
+  "thc_pct": 21,
+  "cbd_pct": null,
+  "thc_src": "leafly",
+  "rating_10": 9.18,
+  "rating_src": "leafly",
+  "harvests": null,
+  "diaries": null,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.59,
+   "reviews": 206,
+   "top_effect": "Happy",
+   "top_terp": "myrcene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Elemental Seeds",
+   "thc": "",
+   "cbd": "",
+   "yield_indoor": "",
+   "yield_outdoor": "",
+   "flowering_time": "",
+   "genetic_background": "",
+   "indica_sativa": "Indica Dominant",
+   "effect": "",
+   "flavor": ""
+  },
+  "sources": [
+   "seedfinder",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/honey-bananas/elemental-seeds",
+   "leafly": "https://www.leafly.com/strains/honey-bananas"
+  },
+  "commercial_score": 52.8,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 91.8,
+   "market": 13.7
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée",
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "GMO",
+  "breeder": "Apothecary Genetics",
+  "aliases": [],
+  "mother": "Chemdog D [pheno: Clementine pheno]",
+  "father": "(GrapeApe",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Chemdog D [pheno: Clementine pheno] x (GrapeApe x OG Male)",
+  "lineage_conflits": [
+   {
+    "champ": "lineage (versions publiees)",
+    "versions": [
+     {
+      "valeur": "Chemdog D [Clementine pheno] × (GrapeApe × OG Male)",
+      "source": "SeedFinder / Apothecary Genetics"
+     },
+     {
+      "valeur": "Chemdawg × GSC (version publiée standard)",
+      "source": "littérature breeder — diverge de la fiche SeedFinder"
+     }
+    ]
+   }
+  ],
+  "flowering_days": 60,
+  "type": "indica / sativa",
+  "thc_pct": 35,
+  "cbd_pct": 1.6,
+  "thc_src": "growdiaries",
+  "rating_10": 9.3,
+  "rating_src": "leafly",
+  "harvests": null,
+  "diaries": null,
+  "yield_g_plant_median": 60,
+  "yield_gm2_csv": 503.0,
+  "heterozygosity_pct": 1.31,
+  "dna_variants": [
+   {
+    "gene": "aPT4",
+    "variant": "p.Tyr259fs",
+    "frequency_pct": 5.800000000000001,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "PKSG-4b",
+    "variant": "p.Phe163fs",
+    "frequency_pct": 64.5,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "PKSG-4b",
+    "variant": "p.Thr118fs",
+    "frequency_pct": 35.4,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "AAE1-2",
+    "variant": "p.Asp317fs",
+    "frequency_pct": 17.9,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "AAE1-2",
+    "variant": "p.Gln318fs",
+    "frequency_pct": 17.7,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "HDS-1",
+    "variant": "c.-108+1_-108+2insG",
+    "frequency_pct": 25.7,
+    "category": "metabolic_precursors"
+   },
+   {
+    "gene": "TFL1",
+    "variant": "c.302-1G&gt;A",
+    "frequency_pct": 50.0,
+    "category": "flowering_photoperiod"
+   },
+   {
+    "gene": "PHL-2",
+    "variant": "p.Lys1185fs",
+    "frequency_pct": 14.299999999999999,
+    "category": "flowering_photoperiod"
+   },
+   {
+    "gene": "ELF3",
+    "variant": "c.1230-2_1230-1delAG",
+    "frequency_pct": 53.300000000000004,
+    "category": "autoflower"
+   },
+   {
+    "gene": "FAD7A-1",
+    "variant": "p.Arg236fs",
+    "frequency_pct": 0.1,
+    "category": "seed_quality"
+   }
+  ],
+  "dna_report_type": "Whole-Genome Sequencing",
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.65,
+   "reviews": 1220,
+   "top_effect": "Relaxed",
+   "top_terp": "caryophyllene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Barneys Farm Seeds",
+   "thc": "19.5%",
+   "cbd": "1.6%",
+   "yield_indoor": "503.0g/m²",
+   "yield_outdoor": "735.0g/plant",
+   "flowering_time": "83 days",
+   "genetic_background": "Northern Lights x Haze",
+   "indica_sativa": "Indica Dominant",
+   "effect": "Euphoric , Sleepy , Uplifting , Full Body High",
+   "flavor": "Pine, Spicy"
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "kannapedia",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/gmo/apothecary-genetics",
+   "growdiaries": "https://growdiaries.com/strains/gmo-cookies",
+   "kannapedia": "https://kannapedia.net/strains/rsp12091",
+   "leafly": "https://www.leafly.com/strains/gmo-cookies"
+  },
+  "commercial_score": 81.9,
+  "score_partiel": true,
+  "score_detail": {
+   "yield": 78.96389324960754,
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 93.0,
+   "market": 81.2
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée (2 lignes CSV pour ce cultivar)",
+   "rendement GrowDiaries n=2 — faible fiabilité (auto-déclaré)",
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Don Mega",
+  "breeder": "Solfire Gardens",
+  "aliases": [
+   "The Don Mega"
+  ],
+  "mother": "GMO",
+  "father": "Black Banana",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "GMO x Black Banana",
+  "lineage_conflits": [],
+  "flowering_days": 65,
+  "type": "indica / sativa",
+  "thc_pct": 28,
+  "cbd_pct": 0.1,
+  "thc_src": "growdiaries",
+  "rating_10": 9.2,
+  "rating_src": "leafly",
+  "harvests": 2,
+  "diaries": null,
+  "yield_g_plant_median": 70,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {
+   "Solfire Gardens": [
+    "Don Mega v2 (strain maison)",
+    "The Don Mega",
+    "The Don Mega F2",
+    "Galactic Gotti (Galactic Goo x Don Mega)",
+    "Miami Madness (Don Mega x Hood Candyz)",
+    "Lung Buster (Don Mega x Udder Madness)",
+    "Rotten Cherries BX (Cherrylicious x Don Mega)",
+    "Barf Breath (Don Mega x Giggle Gas)"
+   ]
+  },
+  "leafly": {
+   "rating": 4.6,
+   "reviews": 109,
+   "top_effect": "Hungry",
+   "top_terp": null,
+   "phenotype": "Hybrid"
+  },
+  "csv8910": null,
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/the-don-mega/solfire-gardens",
+   "growdiaries": "http://growdiaries.com/strains/the-don-mega",
+   "breeder": "https://solfiregardens.com/product/don-mega-v2/",
+   "leafly": "https://www.leafly.com/strains/the-don-mega"
+  },
+  "commercial_score": 49.7,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 92.0,
+   "market": 7.3
+  },
+  "flags_qualite": [
+   "rendement GrowDiaries n=1 — faible fiabilité (auto-déclaré)",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Dante's Inferno",
+  "breeder": "Clearwater Genetics",
+  "aliases": [],
+  "mother": "Oreoz",
+  "father": "Devil Driver",
+  "lineage_src": "breeder_officiel",
+  "lineage_raw_seedfinder": "Oreoz x Devil Driver",
+  "lineage_conflits": [],
+  "flowering_days": 65,
+  "type": "indica / sativa",
+  "thc_pct": 28,
+  "cbd_pct": 0.1,
+  "thc_src": "growdiaries",
+  "rating_10": 9.0,
+  "rating_src": "growdiaries",
+  "harvests": 7,
+  "diaries": null,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.51,
+   "reviews": 107,
+   "top_effect": "Talkative",
+   "top_terp": null,
+   "phenotype": "Hybrid"
+  },
+  "csv8910": null,
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/dantes-inferno/clearwater-genetics",
+   "growdiaries": "https://growdiaries.com/strains/dantes-inferno",
+   "breeder": "https://cwgenetics.com/product/dantes-inferno/",
+   "leafly": "https://www.leafly.com/strains/dantes-inferno"
+  },
+  "commercial_score": 23.9,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 40.6,
+   "market": 7.1
+  },
+  "flags_qualite": [
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Ice Cream Cake",
+  "breeder": "Seed Junky Genetics",
+  "aliases": [],
+  "mother": "Gelato #33",
+  "father": "Wedding Cake",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Gelato #33 x Wedding Cake",
+  "lineage_conflits": [],
+  "flowering_days": 70,
+  "type": "mostly indica",
+  "thc_pct": 22,
+  "cbd_pct": 0.31,
+  "thc_src": "growdiaries",
+  "rating_10": 9.1,
+  "rating_src": "growdiaries",
+  "harvests": 39,
+  "diaries": null,
+  "yield_g_plant_median": 113,
+  "yield_gm2_csv": 625.0,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.57,
+   "reviews": 1502,
+   "top_effect": "Sleepy",
+   "top_terp": "caryophyllene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Flavour Chasers",
+   "thc": "22.2%",
+   "cbd": "1.9%",
+   "yield_indoor": "625.0g/m²",
+   "yield_outdoor": "547.0g/plant",
+   "flowering_time": "60 days",
+   "genetic_background": "Afghani x Thai",
+   "indica_sativa": "",
+   "effect": "Focused, Energetic, Euphoric",
+   "flavor": "Earthy, Spicy"
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/ice-cream-cake/seed-junky-genetics",
+   "growdiaries": "https://growdiaries.com/strains/ice-cream-cake",
+   "leafly": "https://www.leafly.com/strains/ice-cream-cake"
+  },
+  "commercial_score": 93.9,
+  "score_partiel": true,
+  "score_detail": {
+   "yield": 98.11616954474097,
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 72.9,
+   "market": 100.0
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée (2 lignes CSV pour ce cultivar)",
+   "rendement GrowDiaries n=1 — faible fiabilité (auto-déclaré)",
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Jokerz",
+  "breeder": "Compound Genetics",
+  "aliases": [],
+  "mother": "White Runtz",
+  "father": "Jet Fuel Gelato",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "White Runtz x Jet Fuel Gelato",
+  "lineage_conflits": [],
+  "flowering_days": 60,
+  "type": "mostly indica",
+  "thc_pct": 26,
+  "cbd_pct": 0.17,
+  "thc_src": "growdiaries",
+  "rating_10": 8.2,
+  "rating_src": "growdiaries",
+  "harvests": 6,
+  "diaries": null,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {
+   "Compound Genetics": [
+    "Wildcard (El Chivo x Rainbow Cheddar) x Jokerz #31",
+    "UK Riot (London Jealousy x Jokerz #31)",
+    "Trillianz (Triangle Kush S1 x Jokerz #31)",
+    "Candy Packz (Lemon Cherry Gelato x Jokerz #31)",
+    "Inside Joke (Banana Cream Pop #13 x Jokerz #31)",
+    "Glue 31 (GG4 x Jokerz #31)",
+    "NYC Vapor (NYC Diesel x Jokerz #31)",
+    "Strawberry Skrilla (Red Pop x Jokerz #31)",
+    "Candy Bezels (Eye Candy x Jokerz #31)",
+    "Goofiez^2 (Apples and Bananas x Jokerz #31)"
+   ]
+  },
+  "leafly": {
+   "rating": 4.21,
+   "reviews": 95,
+   "top_effect": "Focused",
+   "top_terp": "limonene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Cali Weed Seeds",
+   "thc": "",
+   "cbd": "",
+   "yield_indoor": "",
+   "yield_outdoor": "",
+   "flowering_time": "",
+   "genetic_background": "",
+   "indica_sativa": "Indica Dominant",
+   "effect": "",
+   "flavor": ""
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/jokerz/compound-genetics",
+   "growdiaries": "http://growdiaries.com/strains/jokerz",
+   "leafly": "https://www.leafly.com/strains/jokerz"
+  },
+  "commercial_score": 20.5,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 34.6,
+   "market": 6.3
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "The Soap",
+  "breeder": "Seed Junky Genetics",
+  "aliases": [],
+  "mother": "Animal Mints",
+  "father": "Kush Mints",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Animal Mints x Kush Mints",
+  "lineage_conflits": [],
+  "flowering_days": null,
+  "type": "mostly indica",
+  "thc_pct": 23,
+  "cbd_pct": 0.1,
+  "thc_src": "growdiaries",
+  "rating_10": 9.14,
+  "rating_src": "leafly",
+  "harvests": 1,
+  "diaries": 1,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.57,
+   "reviews": 161,
+   "top_effect": "Focused",
+   "top_terp": "caryophyllene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": null,
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/the-soap/seed-junky-genetics",
+   "growdiaries": "https://growdiaries.com/strains/the-soap",
+   "leafly": "https://www.leafly.com/strains/the-soap"
+  },
+  "commercial_score": 51.1,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 91.4,
+   "market": 10.7
+  },
+  "flags_qualite": [
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Cereal Milk",
+  "breeder": "Cookie Fam Genetics",
+  "aliases": [],
+  "mother": "(Cookies x Cherry Pie)",
+  "father": "Snowman",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "(Cookies x Cherry Pie) x Snowman",
+  "lineage_conflits": [
+   {
+    "champ": "genetic_background",
+    "versions": [
+     {
+      "valeur": "Y Life (Girl Scout Cookies x Cherry Pie) x Snowman",
+      "source": "dataset-8910 (Seed City)"
+     },
+     {
+      "valeur": "(Cookies x Cherry Pie) x Snowman",
+      "source": "SeedFinder"
+     }
+    ]
+   }
+  ],
+  "flowering_days": null,
+  "type": "mostly sativa",
+  "thc_pct": 23,
+  "cbd_pct": 0.5,
+  "thc_src": "growdiaries",
+  "rating_10": 9.0,
+  "rating_src": "growdiaries",
+  "harvests": 22,
+  "diaries": 45,
+  "yield_g_plant_median": 118,
+  "yield_gm2_csv": 317.3,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {
+   "Exotic Genetix": [
+    "Cereal Milk S1 3ct Bonus Pack"
+   ]
+  },
+  "leafly": {
+   "rating": 4.51,
+   "reviews": 763,
+   "top_effect": "Aroused",
+   "top_terp": "caryophyllene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Royal Queen Seeds",
+   "thc": "23%",
+   "cbd": "Low",
+   "yield_indoor": "450 - 500 gr/m2",
+   "yield_outdoor": "625 - 675 gr/plant",
+   "flowering_time": "8 - 10 weeks",
+   "genetic_background": "Y Life (Girl Scout Cookies x Cherry Pie) x Snowman",
+   "indica_sativa": "Sativa Dominant",
+   "effect": "Creative, Focus , Long Lasting",
+   "flavor": "Blueberry, Vanilla"
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/cereal-milk/cookie-fam-genetics",
+   "growdiaries": "https://growdiaries.com/strains/cereal-milk",
+   "leafly": "https://www.leafly.com/strains/cereal-milk"
+  },
+  "commercial_score": 52.1,
+  "score_partiel": true,
+  "score_detail": {
+   "yield": 49.81684981684981,
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 61.3,
+   "market": 50.8
+  },
+  "flags_qualite": [
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Runtz",
+  "breeder": "Humboldt Seed Organisation",
+  "aliases": [],
+  "mother": "Runtz",
+  "father": "Auto OG Kush",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Runtz x Auto OG Kush",
+  "lineage_conflits": [
+   {
+    "champ": "lineage (versions publiees)",
+    "versions": [
+     {
+      "valeur": "Runtz × Auto OG Kush (fiche auto)",
+      "source": "SeedFinder / Humboldt Seed Organisation"
+     },
+     {
+      "valeur": "Zkittlez × Gelato (pedigree original) — absent de SeedFinder",
+      "source": "littérature breeder"
+     }
+    ]
+   }
+  ],
+  "flowering_days": 70,
+  "type": "unknown",
+  "thc_pct": 22,
+  "cbd_pct": 0.64,
+  "thc_src": "growdiaries",
+  "rating_10": 8.7,
+  "rating_src": "growdiaries",
+  "harvests": 281,
+  "diaries": null,
+  "yield_g_plant_median": 85,
+  "yield_gm2_csv": 531.0,
+  "heterozygosity_pct": 1.15,
+  "dna_variants": [
+   {
+    "gene": "HDS-1",
+    "variant": "c.-108+1_-108+2insG",
+    "frequency_pct": 25.7,
+    "category": "metabolic_precursors"
+   },
+   {
+    "gene": "TFL1",
+    "variant": "c.302-1G&gt;A",
+    "frequency_pct": 50.0,
+    "category": "flowering_photoperiod"
+   },
+   {
+    "gene": "PHL-2",
+    "variant": "p.Lys1185fs",
+    "frequency_pct": 14.299999999999999,
+    "category": "flowering_photoperiod"
+   },
+   {
+    "gene": "ELF3",
+    "variant": "c.1230-2_1230-1delAG",
+    "frequency_pct": 53.300000000000004,
+    "category": "autoflower"
+   },
+   {
+    "gene": "FAD2-2",
+    "variant": "c.378-1G&gt;A",
+    "frequency_pct": 2.1,
+    "category": "seed_quality"
+   }
+  ],
+  "dna_report_type": "Whole-Genome Sequencing",
+  "parent_use_evidence": {
+   "Compound Genetics": [
+    "Runtz Carlton",
+    "Rose Gold Rackz (Rose Gold Runtz x The Menthol)"
+   ],
+   "Clearwater Genetics": [
+    "15 croisements (ex. White Runtz x Apple Tartz, Vanilla Runtz x Karma Sour Diesel)"
+   ],
+   "Solfire Gardens": [
+    "Banana Runtz 6pk Fems",
+    "Black Banana Runtz",
+    "Solfire's Banana Runtz"
+   ],
+   "Exotic Genetix": [
+    "Raunchy Runtz (Mother: Cream D'Mint, Reversal: Runtz)",
+    "Krazy Runtz",
+    "Buckin Runtz"
+   ]
+  },
+  "leafly": {
+   "rating": 4.55,
+   "reviews": 1138,
+   "top_effect": "Talkative",
+   "top_terp": "caryophyllene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Seed Stockers",
+   "thc": "27.3%",
+   "cbd": "1.8%",
+   "yield_indoor": "531.0g/m²",
+   "yield_outdoor": "515.0g/plant",
+   "flowering_time": "65 days",
+   "genetic_background": "Northern Lights x Haze",
+   "indica_sativa": "Indica Dominant",
+   "effect": "Sleepy, Creative, Euphoric",
+   "flavor": "Earthy, Sweet, Citrus"
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "kannapedia",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/runtz/humboldt-seed-organisation",
+   "growdiaries": "http://growdiaries.com/strains/runtz",
+   "kannapedia": "https://kannapedia.net/strains/rsp13426",
+   "leafly": "https://www.leafly.com/strains/runtz"
+  },
+  "commercial_score": 82.6,
+  "score_partiel": true,
+  "score_detail": {
+   "yield": 83.35949764521193,
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 87.0,
+   "market": 75.8
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée (5 lignes CSV pour ce cultivar)",
+   "rendement GrowDiaries n=1 — faible fiabilité (auto-déclaré)",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "White Runtz",
+  "breeder": "Cookie Fam Genetics",
+  "aliases": [],
+  "mother": "Runtz",
+  "father": "The White",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Runtz x The White",
+  "lineage_conflits": [],
+  "flowering_days": 68,
+  "type": "indica / sativa",
+  "thc_pct": 23.0,
+  "cbd_pct": 1.5,
+  "thc_src": "dataset-8910",
+  "rating_10": 9.06,
+  "rating_src": "leafly",
+  "harvests": 2,
+  "diaries": 1,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": 599.0,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.53,
+   "reviews": 457,
+   "top_effect": "Tingly",
+   "top_terp": "caryophyllene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Anesia Seeds",
+   "thc": "23.0%",
+   "cbd": "1.5%",
+   "yield_indoor": "599.0g/m²",
+   "yield_outdoor": "1025.0g/plant",
+   "flowering_time": "65 days",
+   "genetic_background": "Afghani x Mexican",
+   "indica_sativa": "Indica Dominant",
+   "effect": "Creative, Euphoric",
+   "flavor": "Earthy"
+  },
+  "sources": [
+   "seedfinder",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/white-runtz/cookie-fam-genetics",
+   "leafly": "https://www.leafly.com/strains/white-runtz"
+  },
+  "commercial_score": 81.8,
+  "score_partiel": true,
+  "score_detail": {
+   "yield": 94.03453689167975,
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 90.6,
+   "market": 30.4
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée (2 lignes CSV pour ce cultivar)",
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Pink Runtz",
+  "breeder": "Copycat Genetix",
+  "aliases": [],
+  "mother": "Pink Panties",
+  "father": "Runtz",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Pink Panties x Runtz",
+  "lineage_conflits": [
+   {
+    "champ": "lineage (versions publiees)",
+    "versions": [
+     {
+      "valeur": "Pink Panties × Runtz",
+      "source": "SeedFinder / Copycat Genetix"
+     },
+     {
+      "valeur": "Pink Panties × Rainbow Sherbet (version clone-only)",
+      "source": "SeedFinder — note fiche (2e version)"
+     }
+    ]
+   },
+   {
+    "champ": "genetic_background",
+    "versions": [
+     {
+      "valeur": "Gelato x Zkittlez x Pink Panties",
+      "source": "dataset-8910 (Seed City)"
+     },
+     {
+      "valeur": "Pink Panties x Runtz",
+      "source": "SeedFinder"
+     }
+    ]
+   }
+  ],
+  "flowering_days": 56,
+  "type": "indica / sativa",
+  "thc_pct": 23,
+  "cbd_pct": 0.5,
+  "thc_src": "growdiaries",
+  "rating_10": 9.2,
+  "rating_src": "growdiaries",
+  "harvests": 11,
+  "diaries": 21,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": 300.7,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.65,
+   "reviews": 443,
+   "top_effect": "Giggly",
+   "top_terp": "limonene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": {
+   "breeder": "Royal Queen Seeds",
+   "thc": "26%",
+   "cbd": "Low",
+   "yield_indoor": "425 - 475 gr/m2",
+   "yield_outdoor": "450 - 500 gr/plant",
+   "flowering_time": "8 - 9 weeks",
+   "genetic_background": "Gelato x Zkittlez x Pink Panties",
+   "indica_sativa": "50% Indica/50% Sativa",
+   "effect": "Laughter, Long Lasting, Uplifting",
+   "flavor": ""
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "dataset-8910",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/pink-runtz/copycat-genetix",
+   "growdiaries": "https://growdiaries.com/strains/pink-runtz",
+   "leafly": "https://www.leafly.com/strains/pink-runtz"
+  },
+  "commercial_score": 44.4,
+  "score_partiel": true,
+  "score_detail": {
+   "yield": 47.20041862899006,
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 49.6,
+   "market": 29.5
+  },
+  "flags_qualite": [
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Rainbow Sherb",
+  "breeder": "Maui Jane Seed Co.",
+  "aliases": [],
+  "mother": "Sherberry",
+  "father": "GreatfruitOG",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Sherberry x GreatfruitOG",
+  "lineage_conflits": [],
+  "flowering_days": 50,
+  "type": "indica / sativa",
+  "thc_pct": null,
+  "cbd_pct": null,
+  "thc_src": null,
+  "rating_10": null,
+  "rating_src": null,
+  "harvests": null,
+  "diaries": null,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": null,
+  "csv8910": null,
+  "sources": [
+   "seedfinder"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/rainbow-sherb/maui-jane-seed-co"
+  },
+  "commercial_score": null,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null
+  },
+  "flags_qualite": [
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)",
+   "score: bag_appeal: aucune note",
+   "score: marché: pas de fiche Leafly"
+  ]
+ },
+ {
+  "cultivar": "Sherbanger",
+  "breeder": "Unknown or Legendary",
+  "aliases": [],
+  "mother": "Sunset Sherbert",
+  "father": "Headbanger",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Sunset Sherbert x Headbanger",
+  "lineage_conflits": [],
+  "flowering_days": null,
+  "type": "unknown",
+  "thc_pct": 21,
+  "cbd_pct": null,
+  "thc_src": "growdiaries",
+  "rating_10": 8.76,
+  "rating_src": "leafly",
+  "harvests": null,
+  "diaries": null,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.38,
+   "reviews": 66,
+   "top_effect": "Talkative",
+   "top_terp": "limonene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": null,
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/sherbanger/unknown-or-legendary",
+   "growdiaries": "https://growdiaries.com/strains/sherbanger",
+   "leafly": "https://www.leafly.com/strains/sherbanger"
+  },
+  "commercial_score": 42.2,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 80.0,
+   "market": 4.4
+  },
+  "flags_qualite": [
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Grape Gas",
+  "breeder": "Twenty 20 Genetics",
+  "aliases": [],
+  "mother": "Grape Gas [probably]",
+  "father": "Honey Badger",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Grape Gas [probably] x Honey Badger",
+  "lineage_conflits": [],
+  "flowering_days": 77,
+  "type": "ruderalis / indica",
+  "thc_pct": 24,
+  "cbd_pct": 0.1,
+  "thc_src": "growdiaries",
+  "rating_10": null,
+  "rating_src": null,
+  "harvests": 4,
+  "diaries": 7,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": null,
+  "csv8910": {
+   "breeder": "True Canna Genetics",
+   "thc": "",
+   "cbd": "",
+   "yield_indoor": "",
+   "yield_outdoor": "",
+   "flowering_time": "8-10 weeks",
+   "genetic_background": "",
+   "indica_sativa": "",
+   "effect": "",
+   "flavor": ""
+  },
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "dataset-8910"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/grape-gas/twenty-20-genetics",
+   "growdiaries": "https://growdiaries.com/strains/grape-gasoline"
+  },
+  "commercial_score": null,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null
+  },
+  "flags_qualite": [
+   "dataset-8910 : genetic_background générique/filler — ignoré pour la lignée",
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)",
+   "score: bag_appeal: aucune note",
+   "score: marché: pas de fiche Leafly"
+  ]
+ },
+ {
+  "cultivar": "Kush Mints",
+  "breeder": "Seed Junky Genetics",
+  "aliases": [],
+  "mother": "Bubba Kush",
+  "father": "Animal Mints",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Bubba Kush x Animal Mints",
+  "lineage_conflits": [],
+  "flowering_days": null,
+  "type": "unknown",
+  "thc_pct": 22,
+  "cbd_pct": 0.5,
+  "thc_src": "growdiaries",
+  "rating_10": 8.9,
+  "rating_src": "growdiaries",
+  "harvests": 28,
+  "diaries": null,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {
+   "Clearwater Genetics": [
+    "Kush Mints x H47"
+   ]
+  },
+  "leafly": {
+   "rating": 4.64,
+   "reviews": 509,
+   "top_effect": "Relaxed",
+   "top_terp": "limonene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": null,
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "breeder",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/kush-mints/seed-junky-genetics",
+   "growdiaries": "http://growdiaries.com/strains/kush-mints",
+   "leafly": "https://www.leafly.com/strains/kush-mints"
+  },
+  "commercial_score": 49.5,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 65.1,
+   "market": 33.9
+  },
+  "flags_qualite": [
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Cap Junky",
+  "breeder": "Seed Junky Genetics",
+  "aliases": [],
+  "mother": "Alien Cookies [probably]",
+  "father": "Kush Mints [#11]",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Alien Cookies [probably] x Kush Mints [#11]",
+  "lineage_conflits": [],
+  "flowering_days": 70,
+  "type": "indica / sativa",
+  "thc_pct": 34,
+  "cbd_pct": 0.1,
+  "thc_src": "growdiaries",
+  "rating_10": 9.0,
+  "rating_src": "growdiaries",
+  "harvests": 17,
+  "diaries": 27,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.76,
+   "reviews": 215,
+   "top_effect": "Giggly",
+   "top_terp": null,
+   "phenotype": "Hybrid"
+  },
+  "csv8910": null,
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/cap-junky/seed-junky-genetics",
+   "growdiaries": "https://growdiaries.com/strains/cap-junky",
+   "leafly": "https://www.leafly.com/strains/cap-junky"
+  },
+  "commercial_score": 35.4,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 56.5,
+   "market": 14.3
+  },
+  "flags_qualite": [
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "MAC V2",
+  "breeder": "Capulator",
+  "aliases": [],
+  "mother": "Alien Cookies [F2]",
+  "father": "MAC [#15]",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Alien Cookies [F2] x MAC [#15]",
+  "lineage_conflits": [],
+  "flowering_days": null,
+  "type": "indica / sativa",
+  "thc_pct": 22,
+  "cbd_pct": null,
+  "thc_src": "leafly",
+  "rating_10": 9.26,
+  "rating_src": "leafly",
+  "harvests": null,
+  "diaries": null,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.63,
+   "reviews": 30,
+   "top_effect": "Tingly",
+   "top_terp": "limonene",
+   "phenotype": "Hybrid"
+  },
+  "csv8910": null,
+  "sources": [
+   "seedfinder",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/mac-v2/capulator",
+   "leafly": "https://www.leafly.com/strains/mac-v2"
+  },
+  "commercial_score": 35.5,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 69.1,
+   "market": 2.0
+  },
+  "flags_qualite": [
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Alien Mints",
+  "breeder": "AlienLabs",
+  "aliases": [],
+  "mother": "Animal Mints",
+  "father": "Animal Mints",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "Animal Mints x Animal Mints",
+  "lineage_conflits": [],
+  "flowering_days": null,
+  "type": "indica / sativa",
+  "thc_pct": null,
+  "cbd_pct": null,
+  "thc_src": null,
+  "rating_10": 9.36,
+  "rating_src": "leafly",
+  "harvests": null,
+  "diaries": null,
+  "yield_g_plant_median": null,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.68,
+   "reviews": 82,
+   "top_effect": "Talkative",
+   "top_terp": null,
+   "phenotype": "Hybrid"
+  },
+  "csv8910": null,
+  "sources": [
+   "seedfinder",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/alien-mints/alienlabs",
+   "leafly": "https://www.leafly.com/strains/alien-mints"
+  },
+  "commercial_score": 47.7,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 89.8,
+   "market": 5.5
+  },
+  "flags_qualite": [
+   "Alien Mints : Animal Mints × Animal Mints sur SeedFinder — probable S1",
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ },
+ {
+  "cultivar": "Compound Z",
+  "breeder": "Compound Genetics",
+  "aliases": [],
+  "mother": "White Runtz [probably]",
+  "father": "Apples & Bananas",
+  "lineage_src": "seedfinder",
+  "lineage_raw_seedfinder": "White Runtz [probably] x Apples & Bananas",
+  "lineage_conflits": [],
+  "flowering_days": 63,
+  "type": "mostly indica",
+  "thc_pct": 21,
+  "cbd_pct": 0.1,
+  "thc_src": "growdiaries",
+  "rating_10": 9.48,
+  "rating_src": "leafly",
+  "harvests": 0,
+  "diaries": 1,
+  "yield_g_plant_median": 96,
+  "yield_gm2_csv": null,
+  "heterozygosity_pct": null,
+  "dna_variants": null,
+  "dna_report_type": null,
+  "parent_use_evidence": {},
+  "leafly": {
+   "rating": 4.74,
+   "reviews": 23,
+   "top_effect": "Tingly",
+   "top_terp": null,
+   "phenotype": "Hybrid"
+  },
+  "csv8910": null,
+  "sources": [
+   "seedfinder",
+   "growdiaries",
+   "leafly"
+  ],
+  "source_urls": {
+   "seedfinder": "https://seedfinder.eu/en/strain-info/compound-z/compound-genetics",
+   "growdiaries": "https://growdiaries.com/strains/compound-z",
+   "leafly": "https://www.leafly.com/strains/compound-z"
+  },
+  "commercial_score": 33.5,
+  "score_partiel": true,
+  "score_detail": {
+   "terpene": null,
+   "vigor": null,
+   "pm": null,
+   "bag": 65.4,
+   "market": 1.5
+  },
+  "flags_qualite": [
+   "rendement GrowDiaries n=1 — faible fiabilité (auto-déclaré)",
+   "breeder : non vendu en direct, aucune lignée officielle",
+   "score: yield: pas de g/m² exploitable",
+   "score: terpene: aucune donnée labo (NULL)",
+   "score: vigueur: aucune donnée (NULL)",
+   "score: PM: aucune donnée (NULL)"
+  ]
+ }
+]
