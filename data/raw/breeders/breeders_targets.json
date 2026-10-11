@@ -1,0 +1,565 @@
+[
+ {
+  "cultivar": "Permanent Marker",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "Jealousy",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {
+   "Compound Genetics": [
+    "UK Riot (London Jealousy x Jokerz #31) — 'London Jealousy' = cut Jealousy de Compound"
+   ]
+  }
+ },
+ {
+  "cultivar": "RS11",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {
+   "Clearwater Genetics": [
+    "RS11 x Gary Satan",
+    "Gary Satan x RS11"
+   ]
+  }
+ },
+ {
+  "cultivar": "Rainbow Belts",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {
+   "Clearwater Genetics": [
+    "Rainbow Belts x Devil Driver"
+   ]
+  }
+ },
+ {
+  "cultivar": "Lemon Cherry Gelato",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {
+   "Compound Genetics": [
+    "Candy Packz (Lemon Cherry Gelato x Jokerz #31)"
+   ],
+   "Clearwater Genetics": [
+    "Lemon Cherry Gelato x Black Velvet",
+    "Lemon Cherry Gelato x Now N Later",
+    "Platinum Lemon Cherry Gelato x (OzMelon x Papaya)"
+   ]
+  }
+ },
+ {
+  "cultivar": "Super Boof",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {
+   "Solfire Gardens": [
+    "Sol Snatcher (Super Boof x Don Mega)"
+   ]
+  }
+ },
+ {
+  "cultivar": "Blue Lobster",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "Gary Payton",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {
+   "Clearwater Genetics": [
+    "Gary Payton x Black Velvet"
+   ]
+  }
+ },
+ {
+  "cultivar": "Zoap",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {
+   "Clearwater Genetics": [
+    "Zoap x Space Coast Gelato",
+    "Zoap x Dante's Descent"
+   ]
+  }
+ },
+ {
+  "cultivar": "Red Pop",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {
+   "Compound Genetics": [
+    "Strawberry Skrilla (Red Pop x Jokerz #31)"
+   ]
+  }
+ },
+ {
+  "cultivar": "Georgia Pie",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "Devil Driver",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {
+   "Clearwater Genetics": [
+    "White Truffle x Devil Driver",
+    "Oreocake x Devil Driver",
+    "ECSD x Devil Driver",
+    "Devil Driver S1",
+    "Black Velvet x Devil Driver",
+    "Dante's Inferno (Oreoz x Devil Driver)"
+   ]
+  }
+ },
+ {
+  "cultivar": "Honey Banana",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "GMO",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "Don Mega",
+  "breeder": "Solfire Gardens",
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": "breeder_officiel",
+  "source_url": "https://solfiregardens.com/product/don-mega-v2/",
+  "note": "Strain maison Solfire (Don Mega v2, The Don Mega, F2). Lignée non publiée en texte sur le site (ni Mother/Reversal en HTML statique). SeedFinder (fiche Solfire) indique GMO x Black Banana — non contredit, non vérifiable on-site.",
+  "breeder_status": "vendu_par_breeder",
+  "parent_use_evidence": {
+   "Solfire Gardens": [
+    "Don Mega v2 (strain maison)",
+    "The Don Mega",
+    "The Don Mega F2",
+    "Galactic Gotti (Galactic Goo x Don Mega)",
+    "Miami Madness (Don Mega x Hood Candyz)",
+    "Lung Buster (Don Mega x Udder Madness)",
+    "Rotten Cherries BX (Cherrylicious x Don Mega)",
+    "Barf Breath (Don Mega x Giggle Gas)"
+   ]
+  }
+ },
+ {
+  "cultivar": "Dante's Inferno",
+  "breeder": "Clearwater Genetics",
+  "mother": "Oreoz",
+  "father": "Devil Driver",
+  "lineage_raw": "Oreoz x Devil Driver",
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": "breeder_officiel",
+  "source_url": "https://cwgenetics.com/product/dantes-inferno/",
+  "note": "Fiche officielle Clearwater (wp-json product/165). Ordre mère x père tel que publié.",
+  "breeder_status": "vendu_par_breeder",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "Ice Cream Cake",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "Jokerz",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {
+   "Compound Genetics": [
+    "Wildcard (El Chivo x Rainbow Cheddar) x Jokerz #31",
+    "UK Riot (London Jealousy x Jokerz #31)",
+    "Trillianz (Triangle Kush S1 x Jokerz #31)",
+    "Candy Packz (Lemon Cherry Gelato x Jokerz #31)",
+    "Inside Joke (Banana Cream Pop #13 x Jokerz #31)",
+    "Glue 31 (GG4 x Jokerz #31)",
+    "NYC Vapor (NYC Diesel x Jokerz #31)",
+    "Strawberry Skrilla (Red Pop x Jokerz #31)",
+    "Candy Bezels (Eye Candy x Jokerz #31)",
+    "Goofiez^2 (Apples and Bananas x Jokerz #31)"
+   ]
+  }
+ },
+ {
+  "cultivar": "The Soap",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "Cereal Milk",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {
+   "Exotic Genetix": [
+    "Cereal Milk S1 3ct Bonus Pack"
+   ]
+  }
+ },
+ {
+  "cultivar": "Runtz",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {
+   "Compound Genetics": [
+    "Runtz Carlton",
+    "Rose Gold Rackz (Rose Gold Runtz x The Menthol)"
+   ],
+   "Clearwater Genetics": [
+    "15 croisements (ex. White Runtz x Apple Tartz, Vanilla Runtz x Karma Sour Diesel)"
+   ],
+   "Solfire Gardens": [
+    "Banana Runtz 6pk Fems",
+    "Black Banana Runtz",
+    "Solfire's Banana Runtz"
+   ],
+   "Exotic Genetix": [
+    "Raunchy Runtz (Mother: Cream D'Mint, Reversal: Runtz)",
+    "Krazy Runtz",
+    "Buckin Runtz"
+   ]
+  }
+ },
+ {
+  "cultivar": "White Runtz",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "Pink Runtz",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "Rainbow Sherb",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "Sherbanger",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "Grape Gas",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "Kush Mints",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {
+   "Clearwater Genetics": [
+    "Kush Mints x H47"
+   ]
+  }
+ },
+ {
+  "cultivar": "Cap Junky",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "MAC V2",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "Alien Mints",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ },
+ {
+  "cultivar": "Compound Z",
+  "breeder": null,
+  "mother": null,
+  "father": null,
+  "lineage_raw": null,
+  "flowering_days": null,
+  "aromas": null,
+  "type": null,
+  "source": null,
+  "source_url": null,
+  "note": "Non vendu en direct par les 5 breeders scrapables (Compound, Clearwater, Exotic, Solfire) — voir parent_use ci-dessous.",
+  "breeder_status": "non_vendu_direct",
+  "parent_use_evidence": {}
+ }
+]
