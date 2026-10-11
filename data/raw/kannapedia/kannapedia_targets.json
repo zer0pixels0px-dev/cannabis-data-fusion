@@ -1,0 +1,208 @@
+[
+ {
+  "cultivar": "Runtz",
+  "source": "kannapedia",
+  "source_url": "https://kannapedia.net/strains/rsp13426",
+  "accession_date": "June 15, 2025",
+  "reported_sex": "Female",
+  "report_type": "Whole-Genome Sequencing",
+  "rarity_label": "Common",
+  "rarity_percentile": 2,
+  "heterozygosity_pct": 1.15,
+  "high_impact_variants": [
+   {
+    "gene": "HDS-1",
+    "variant": "c.-108+1_-108+2insG",
+    "frequency_pct": 25.7,
+    "category": "metabolic_precursors"
+   },
+   {
+    "gene": "TFL1",
+    "variant": "c.302-1G&gt;A",
+    "frequency_pct": 50.0,
+    "category": "flowering_photoperiod"
+   },
+   {
+    "gene": "PHL-2",
+    "variant": "p.Lys1185fs",
+    "frequency_pct": 14.299999999999999,
+    "category": "flowering_photoperiod"
+   },
+   {
+    "gene": "ELF3",
+    "variant": "c.1230-2_1230-1delAG",
+    "frequency_pct": 53.300000000000004,
+    "category": "autoflower"
+   },
+   {
+    "gene": "FAD2-2",
+    "variant": "c.378-1G&gt;A",
+    "frequency_pct": 2.1,
+    "category": "seed_quality"
+   }
+  ],
+  "variant_categories": {
+   "metabolic_precursors": 3,
+   "flowering_photoperiod": 4,
+   "autoflower": 3,
+   "seed_quality": 3,
+   "cannabinoid_production": 2
+  }
+ },
+ {
+  "cultivar": "Permanent Marker",
+  "source": "kannapedia",
+  "source_url": "https://kannapedia.net/strains/rsp12907",
+  "accession_date": "September 6, 2023",
+  "reported_sex": "Female",
+  "report_type": "Whole-Genome Sequencing",
+  "rarity_label": "Uncommon",
+  "rarity_percentile": 52,
+  "heterozygosity_pct": 1.27,
+  "high_impact_variants": [
+   {
+    "gene": "PKSG-4b",
+    "variant": "p.Thr118fs",
+    "frequency_pct": 35.4,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "AAE1-2",
+    "variant": "p.Asp317fs",
+    "frequency_pct": 17.9,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "AAE1-2",
+    "variant": "p.Gln318fs",
+    "frequency_pct": 17.7,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "ELF3",
+    "variant": "c.1230-2_1230-1delAG",
+    "frequency_pct": 53.300000000000004,
+    "category": "autoflower"
+   }
+  ],
+  "variant_categories": {
+   "cannabinoid_production": 5,
+   "autoflower": 3,
+   "metabolic_precursors": 2,
+   "flowering_photoperiod": 2,
+   "seed_quality": 2
+  }
+ },
+ {
+  "cultivar": "Gary Payton",
+  "source": "kannapedia",
+  "source_url": "https://kannapedia.net/strains/rsp12898",
+  "accession_date": "August 13, 2023",
+  "reported_sex": "Female",
+  "report_type": "Whole-Genome Sequencing",
+  "rarity_label": "Uncommon",
+  "rarity_percentile": 79,
+  "heterozygosity_pct": 1.12,
+  "high_impact_variants": [
+   {
+    "gene": "AAE1-2",
+    "variant": "p.Asp317fs",
+    "frequency_pct": 17.9,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "PHL-2",
+    "variant": "p.Lys1185fs",
+    "frequency_pct": 14.299999999999999,
+    "category": "flowering_photoperiod"
+   }
+  ],
+  "variant_categories": {
+   "cannabinoid_production": 3,
+   "flowering_photoperiod": 3,
+   "metabolic_precursors": 2,
+   "autoflower": 2,
+   "seed_quality": 2
+  }
+ },
+ {
+  "cultivar": "GMO",
+  "source": "kannapedia",
+  "source_url": "https://kannapedia.net/strains/rsp12091",
+  "accession_date": "September 16, 2021",
+  "reported_sex": "not reported",
+  "report_type": "Whole-Genome Sequencing",
+  "rarity_label": "Common",
+  "rarity_percentile": 17,
+  "heterozygosity_pct": 1.31,
+  "high_impact_variants": [
+   {
+    "gene": "aPT4",
+    "variant": "p.Tyr259fs",
+    "frequency_pct": 5.800000000000001,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "PKSG-4b",
+    "variant": "p.Phe163fs",
+    "frequency_pct": 64.5,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "PKSG-4b",
+    "variant": "p.Thr118fs",
+    "frequency_pct": 35.4,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "AAE1-2",
+    "variant": "p.Asp317fs",
+    "frequency_pct": 17.9,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "AAE1-2",
+    "variant": "p.Gln318fs",
+    "frequency_pct": 17.7,
+    "category": "cannabinoid_production"
+   },
+   {
+    "gene": "HDS-1",
+    "variant": "c.-108+1_-108+2insG",
+    "frequency_pct": 25.7,
+    "category": "metabolic_precursors"
+   },
+   {
+    "gene": "TFL1",
+    "variant": "c.302-1G&gt;A",
+    "frequency_pct": 50.0,
+    "category": "flowering_photoperiod"
+   },
+   {
+    "gene": "PHL-2",
+    "variant": "p.Lys1185fs",
+    "frequency_pct": 14.299999999999999,
+    "category": "flowering_photoperiod"
+   },
+   {
+    "gene": "ELF3",
+    "variant": "c.1230-2_1230-1delAG",
+    "frequency_pct": 53.300000000000004,
+    "category": "autoflower"
+   },
+   {
+    "gene": "FAD7A-1",
+    "variant": "p.Arg236fs",
+    "frequency_pct": 0.1,
+    "category": "seed_quality"
+   }
+  ],
+  "variant_categories": {
+   "cannabinoid_production": 7,
+   "metabolic_precursors": 3,
+   "flowering_photoperiod": 4,
+   "autoflower": 3,
+   "seed_quality": 3
+  }
+ }
+]
