@@ -1,0 +1,23 @@
+{
+ "pages_trouvees": 41858,
+ "pages_sans_nom": 12,
+ "groupes_seedfinder": 36885,
+ "entrees_v1": 15287,
+ "sf_groupes_nouveaux": 28818,
+ "sf_groupes_matchés": 8067,
+ "url_seedfinder_ajoutee": 8036,
+ "fiche_source_completee": 8036,
+ "phenotype_complete": 3657,
+ "floraison_completee": 4722,
+ "lineage_raw_complete": 7901,
+ "parents_non_informatifs": 1318,
+ "donnees_seedfinder_ajoutees": 8067,
+ "parents_completes": 5145,
+ "conflit_parents_nouveaux": 523,
+ "entrees_multi_breeders": 1564,
+ "conflit_parents_intra_sf": 730,
+ "conflit_parents": 226,
+ "divergence_floraison": 417,
+ "entrees_v1_sans_seedfinder": 7220,
+ "entrees_fusion_v2": 44105
+}
